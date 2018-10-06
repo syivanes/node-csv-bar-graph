@@ -1,0 +1,14 @@
+{
+  "name": "csv-bar-graph",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "http://127.0.0.1",
+  "author": "sergey-ivanes",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^2.7.2",
+    "csv-reader": "^1.0.3",
+    "fast-csv": "^2.4.1",
+    "handlebars": "^4.0.12"
+  }
+}
